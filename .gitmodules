@@ -1,0 +1,3 @@
+[submodule "settings/vscode"]
+	path = settings/vscode
+	url = https://github.com/jeffersonrj14/extension-pack
